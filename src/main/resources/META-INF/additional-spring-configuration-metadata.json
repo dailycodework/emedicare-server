@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "entitymanager.packagesToScan",
+      "type": "java.lang.String",
+      "description": "Description for entitymanager.packagesToScan."
+    }
+
+  ] }
