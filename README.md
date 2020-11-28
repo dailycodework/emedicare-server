@@ -1,2 +1,2 @@
 # emedicare-server
-Connect with a doctor online for medical attentions
+Book appointment with a doctor online (back-end)
